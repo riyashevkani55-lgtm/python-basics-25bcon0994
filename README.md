@@ -10,11 +10,6 @@ of any number entered by the user.
 - Easy to use and beginner friendly
 ## Requirements
 - Python 3.x
-- NumPy
-## Installation
-Clone the repository.
-Install the dependencies using:
-pip install -r requirements.txt
 ## Usage
 Run:
 python factorial.py
@@ -25,5 +20,3 @@ Output:
 ## How It Works
 The program accepts a number from the user and uses
 a loop to calculate its factorial.
-## License
-This project is licensed under the MIT License.
